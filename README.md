@@ -13,4 +13,4 @@
 #### Links
 - Website: https://badlandsmc.net
 - Discord: https://discord.badlandsmc.net
-- Github:  https://github.com/badlandsMC-Net/
+- Github:  https://github.com/BadlandsMC-Net/
